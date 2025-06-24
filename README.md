@@ -107,5 +107,4 @@ En este análisis se puede evidenciar aquellos proveedores más relevantes en t�
 ## 👨‍💻 Autor
 - William Gonzales Tarazona
 - 📧 wgonzales.tarazona@gmail.com
-- 🔗 www.linkedin.com/in/wgonzalest
 - [![Wgonzalest](https://img.shields.io/badge/William_Gonzales_Tarazona-LinkedIn-blue.svg)](https://www.linkedin.com/in/wgonzalest/)
